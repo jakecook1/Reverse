@@ -1,0 +1,1 @@
+Simple .net core console app to reverse a string written in C#
